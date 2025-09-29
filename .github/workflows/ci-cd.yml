@@ -11,6 +11,7 @@ on:
 
 permissions:
   actions: write
+  packages: write
 
 jobs:
   test:
