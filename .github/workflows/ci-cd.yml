@@ -10,7 +10,7 @@ on:
       - dev
 
 permissions:
-  packages: write
+  actions: write
 
 jobs:
   test:
